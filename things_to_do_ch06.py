@@ -1,8 +1,8 @@
 # ======== 1. use a for loop to print the elements of the following list
-magic_numbers = [3, 2, 1, 0]
+# magic_numbers = [3, 2, 1, 0]
 
-for n in magic_numbers:
-    print(n, end=" ")
+# for n in magic_numbers:
+#     print(n, end=" ")
 
 ## ======== 2. Assign the value 7 to variable guess_me
 guess_me = 7
